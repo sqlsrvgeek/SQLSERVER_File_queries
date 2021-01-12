@@ -1,3 +1,5 @@
+--based on a code found on the Internet...
+
 USE MASTER;
 SET NOCOUNT ON
 
